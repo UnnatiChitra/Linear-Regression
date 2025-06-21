@@ -31,7 +31,7 @@ This repository includes **three different implementations** of Linear Regressio
 * Evaluating model performance using `.score()` and `.predict()`
 * Comparing results with your scratch implementation
 
-### 3. Linear Regression Gradient Descent
+### 3. Linear Regression using Gradient Descent
 
 > **Description:**
 > Implements Linear Regression using **Gradient Descent** for optimization.
